@@ -34,7 +34,7 @@ Amazon data analytics director wanted to hire someone who extract the insights w
 
 1. Install the Power BI application and import the SalesInDashboard.pbix into Power BI.
 2. Run the Sales Insights Analysis.ipynb notebook and get the processed datasets. 
-3. To get the cleaned dataset go to https://github.com/achalpratap/Amazon-Sales-Insight-Report-Project/blob/main/clnamazonsales.csv . This is the data repository for the Amazon Sales Insight Report Project.
+3. To get the cleaned dataset go to https://github.com/kunalG177/Amazon-Sales-Insights/blob/main/clnamazonsales.csv . This is the data repository for the Amazon Sales Insight Report Project.
 
 
 ## Dashboard includes :
